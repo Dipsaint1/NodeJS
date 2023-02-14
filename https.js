@@ -7,5 +7,7 @@ function makeRequest(url, data) {
 } 
 
 const responseData = makeRequest('https://google.com', 'hello');
+
 console.log(responseData);  
-// console.log(require.cache);
+
+console.log(require);
