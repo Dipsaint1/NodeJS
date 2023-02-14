@@ -2,9 +2,9 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "https.js",
+  "main": "/axios-test/request",
   "scripts": {
-    "start": "node https.js",
+    "start": "node axios-test/request",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
