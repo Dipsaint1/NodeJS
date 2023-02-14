@@ -1,0 +1,2 @@
+npm init -y     
+add "start" to scripts and "node https.js"
